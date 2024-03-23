@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     siteName: "pavlov.vladimir.ru",
     images: [
       {
-        url: "https://pavlov.vladimir.ru/og.png",
+        url: "/og.png",
         width: 1920,
         height: 1080,
       },
